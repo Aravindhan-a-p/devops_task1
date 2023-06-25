@@ -1,0 +1,173 @@
+Uptime:up 3 hours, 47 minutes
+Disc Usage :Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           780M  2.3M  778M   1% /run
+/dev/nvme0n1p7   49G   16G   32G  34% /
+tmpfs           3.9G   20M  3.8G   1% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/nvme0n1p1  746M   94M  653M  13% /boot/efi
+tmpfs           780M  136K  780M   1% /run/user/1000
+Memory Usage :               total        used        free      shared  buff/cache   available
+Mem:         7982680     3107616      496796      704420     4378268     3873680
+Swap:        2097148           0     2097148
+Utilisation:[?1h=[?25l[H[2J(B[mtop - 01:23:02 up  3:47,  1 user,  load average: 0.15, 0.17, 0.23(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m 313 (B[m[39;49mtotal,(B[m[39;49m[1m   2 (B[m[39;49mrunning,(B[m[39;49m[1m 311 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  2.1 (B[m[39;49mus,(B[m[39;49m[1m  1.4 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 96.6 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7795.6 (B[m[39;49mtotal,(B[m[39;49m[1m    483.6 (B[m[39;49mfree,(B[m[39;49m[1m   3036.3 (B[m[39;49mused,(B[m[39;49m[1m   4275.7 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   2048.0 (B[m[39;49mtotal,(B[m[39;49m[1m   2048.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   3781.3 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                                                                                             (B[m[39;49m[K
+(B[m[1m  11639 aravind+  20   0   22004   4292   3436 R  11.8   0.1   0:00.03 top                                                                                                                                 (B[m[39;49m[K
+(B[m   1876 aravind+  20   0 5902636 354444 168752 S   5.9   4.4   5:35.00 gnome-shell                                                                                                                         (B[m[39;49m[K
+(B[m      1 root      20   0  168300  13836   8408 S   0.0   0.2   0:03.11 systemd                                                                                                                             (B[m[39;49m[K
+Expensive processes :     PID TTY          TIME CMD
+   7027 pts/1    00:00:00 bash
+  11634 pts/1    00:00:00 cron.sh
+  11641 pts/1    00:00:00 cron.sh
+  11642 pts/1    00:00:00 ps
+  11643 pts/1    00:00:00 head
+Current Connections:Netid State     Recv-Q Send-Q                                   Local Address:Port                Peer Address:Port  Process
+nl    UNCONN    0      0                                                    0:2702                            *             
+nl    UNCONN    0      0                                                    0:2346                            *             
+nl    UNCONN    0      0                                                    0:1767                            *             
+nl    UNCONN    0      0                                                    0:1402                            *             
+nl    UNCONN    0      0                                                    0:3938                            *             
+nl    UNCONN    0      0                                                    0:1969                            *             
+nl    UNCONN    0      0                                                    0:2001                            *             
+nl    UNCONN    0      0                                                    0:720                             *             
+nl    UNCONN    0      0                                                    0:0                               *             
+nl    UNCONN    0      0                                                    0:4493                            *             
+nl    UNCONN    0      0                                                    0:4139                            *             
+nl    UNCONN    0      0                                                    0:1986                            *             
+nl    UNCONN    0      0                                                    0:753                             *             
+nl    UNCONN    0      0                                                    0:714                             *             
+nl    UNCONN    0      0                                                    0:545                             *             
+nl    UNCONN    0      0                                                    0:4493                            *             
+nl    UNCONN    0      0                                                    0:4139                            *             
+nl    UNCONN    0      0                                                    0:3938                            *             
+nl    UNCONN    0      0                                                    0:2702                            *             
+ Processes :    PID TTY          TIME CMD
+   7027 pts/1    00:00:00 bash
+  11634 pts/1    00:00:00 cron.sh
+  11654 pts/1    00:00:00 ps
+Uptime:up 3 hours, 47 minutes
+Disc Usage :Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           780M  2.3M  778M   1% /run
+/dev/nvme0n1p7   49G   16G   32G  34% /
+tmpfs           3.9G   20M  3.8G   1% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/nvme0n1p1  746M   94M  653M  13% /boot/efi
+tmpfs           780M  136K  780M   1% /run/user/1000
+Memory Usage :               total        used        free      shared  buff/cache   available
+Mem:         7982680     3118100      486676      703916     4377904     3863736
+Swap:        2097148           0     2097148
+Utilisation:[?1h=[?25l[H[2J(B[mtop - 01:23:25 up  3:47,  1 user,  load average: 0.39, 0.22, 0.24(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m 313 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 312 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  2.8 (B[m[39;49mus,(B[m[39;49m[1m  2.8 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 94.5 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7795.6 (B[m[39;49mtotal,(B[m[39;49m[1m    475.0 (B[m[39;49mfree,(B[m[39;49m[1m   3045.3 (B[m[39;49mused,(B[m[39;49m[1m   4275.3 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   2048.0 (B[m[39;49mtotal,(B[m[39;49m[1m   2048.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   3772.9 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                                                                                             (B[m[39;49m[K
+(B[m[1m  11666 aravind+  20   0   22004   4300   3440 R  11.8   0.1   0:00.03 top                                                                                                                                 (B[m[39;49m[K
+(B[m    750 root      20   0  284808  10468   9600 S   5.9   0.1   0:22.76 thermald                                                                                                                            (B[m[39;49m[K
+(B[m   1876 aravind+  20   0 5902448 354580 168752 S   5.9   4.4   5:36.52 gnome-shell                                                                                                                         (B[m[39;49m[K
+Expensive processes :     PID TTY          TIME CMD
+   7027 pts/1    00:00:00 bash
+  11661 pts/1    00:00:00 cron.sh
+  11668 pts/1    00:00:00 cron.sh
+  11669 pts/1    00:00:00 ps
+  11670 pts/1    00:00:00 head
+Open TCP Ports:Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess
+udp   UNCONN 0      0      127.0.0.53%lo:53         0.0.0.0:*          
+udp   UNCONN 0      0            0.0.0.0:631        0.0.0.0:*          
+udp   UNCONN 0      0            0.0.0.0:37746      0.0.0.0:*          
+udp   UNCONN 0      0            0.0.0.0:5353       0.0.0.0:*          
+udp   UNCONN 0      0                  *:48518            *:*          
+udp   UNCONN 0      0                  *:41320            *:*          
+udp   UNCONN 0      0               [::]:5353          [::]:*          
+udp   UNCONN 0      0               [::]:34948         [::]:*          
+tcp   LISTEN 0      4096   127.0.0.53%lo:53         0.0.0.0:*          
+Current Connections:Netid State     Recv-Q Send-Q                                   Local Address:Port                Peer Address:Port  Process
+nl    UNCONN    0      0                                                    0:2702                            *             
+nl    UNCONN    0      0                                                    0:2346                            *             
+nl    UNCONN    0      0                                                    0:1767                            *             
+nl    UNCONN    0      0                                                    0:1402                            *             
+nl    UNCONN    0      0                                                    0:3938                            *             
+nl    UNCONN    0      0                                                    0:1969                            *             
+nl    UNCONN    0      0                                                    0:2001                            *             
+nl    UNCONN    0      0                                                    0:720                             *             
+nl    UNCONN    0      0                                                    0:0                               *             
+nl    UNCONN    0      0                                                    0:4493                            *             
+nl    UNCONN    0      0                                                    0:4139                            *             
+nl    UNCONN    0      0                                                    0:1986                            *             
+nl    UNCONN    0      0                                                    0:753                             *             
+nl    UNCONN    0      0                                                    0:714                             *             
+nl    UNCONN    0      0                                                    0:545                             *             
+nl    UNCONN    0      0                                                    0:4493                            *             
+nl    UNCONN    0      0                                                    0:4139                            *             
+nl    UNCONN    0      0                                                    0:3938                            *             
+nl    UNCONN    0      0                                                    0:2702                            *             
+ Processes :    PID TTY          TIME CMD
+   7027 pts/1    00:00:00 bash
+  11661 pts/1    00:00:00 cron.sh
+  11681 pts/1    00:00:00 ps
+Uptime:up 3 hours, 49 minutes
+Disc Usage :Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           780M  2.3M  778M   1% /run
+/dev/nvme0n1p7   49G   16G   32G  34% /
+tmpfs           3.9G   17M  3.8G   1% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/nvme0n1p1  746M   94M  653M  13% /boot/efi
+tmpfs           780M  136K  780M   1% /run/user/1000
+Memory Usage :               total        used        free      shared  buff/cache   available
+Mem:         7982680     3138280      519252      650376     4325148     3897056
+Swap:        2097148           0     2097148
+Utilisation:[?1h=[?25l[H[2J(B[mtop - 01:25:10 up  3:49,  1 user,  load average: 0.41, 0.29, 0.27(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m 310 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 309 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0.0 (B[m[39;49mus,(B[m[39;49m[1m  2.2 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 97.8 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7795.6 (B[m[39;49mtotal,(B[m[39;49m[1m    506.6 (B[m[39;49mfree,(B[m[39;49m[1m   3064.9 (B[m[39;49mused,(B[m[39;49m[1m   4224.1 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   2048.0 (B[m[39;49mtotal,(B[m[39;49m[1m   2048.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   3805.2 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                                                                                             (B[m[39;49m[K
+(B[m     15 root      20   0       0      0      0 I   6.7   0.0   0:06.66 rcu_preempt                                                                                                                         (B[m[39;49m[K
+(B[m   1876 aravind+  20   0 5894304 354680 168880 S   6.7   4.4   5:45.49 gnome-shell                                                                                                                         (B[m[39;49m[K
+(B[m[1m  11707 aravind+  20   0   22004   4300   3436 R   6.7   0.1   0:00.02 top                                                                                                                                 (B[m[39;49m[K
+Expensive processes :     PID TTY          TIME CMD
+   7027 pts/1    00:00:00 bash
+  11702 pts/1    00:00:00 cron.sh
+  11709 pts/1    00:00:00 cron.sh
+  11710 pts/1    00:00:00 ps
+  11711 pts/1    00:00:00 head
+Open TCP Ports:Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess
+udp   UNCONN 0      0      127.0.0.53%lo:53         0.0.0.0:*          
+udp   UNCONN 0      0            0.0.0.0:631        0.0.0.0:*          
+udp   UNCONN 0      0            0.0.0.0:37746      0.0.0.0:*          
+udp   UNCONN 0      0            0.0.0.0:5353       0.0.0.0:*          
+udp   UNCONN 0      0                  *:48518            *:*          
+udp   UNCONN 0      0                  *:41320            *:*          
+udp   UNCONN 0      0               [::]:5353          [::]:*          
+udp   UNCONN 0      0               [::]:34948         [::]:*          
+tcp   LISTEN 0      4096   127.0.0.53%lo:53         0.0.0.0:*          
+Current Connections:Netid State     Recv-Q Send-Q                                   Local Address:Port                Peer Address:Port  Process
+nl    UNCONN    0      0                                                    0:2702                            *             
+nl    UNCONN    0      0                                                    0:2346                            *             
+nl    UNCONN    0      0                                                    0:1767                            *             
+nl    UNCONN    0      0                                                    0:1402                            *             
+nl    UNCONN    0      0                                                    0:3938                            *             
+nl    UNCONN    0      0                                                    0:1969                            *             
+nl    UNCONN    0      0                                                    0:2001                            *             
+nl    UNCONN    0      0                                                    0:720                             *             
+nl    UNCONN    0      0                                                    0:0                               *             
+nl    UNCONN    0      0                                                    0:4493                            *             
+nl    UNCONN    0      0                                                    0:4139                            *             
+nl    UNCONN    0      0                                                    0:1986                            *             
+nl    UNCONN    0      0                                                    0:753                             *             
+nl    UNCONN    0      0                                                    0:714                             *             
+nl    UNCONN    0      0                                                    0:545                             *             
+nl    UNCONN    0      0                                                    0:4493                            *             
+nl    UNCONN    0      0                                                    0:4139                            *             
+nl    UNCONN    0      0                                                    0:3938                            *             
+nl    UNCONN    0      0                                                    0:2702                            *             
+ Processes :    PID TTY          TIME CMD
+   7027 pts/1    00:00:00 bash
+  11702 pts/1    00:00:00 cron.sh
+  11722 pts/1    00:00:00 ps
